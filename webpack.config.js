@@ -44,7 +44,7 @@ module.exports = {
         extensions: ['.ts', '.tsx', '.js']
     },
     output: {
-        filename: 'sibereanbreaks.js',
+        filename: 'siberianbreaks.js',
         path: path.resolve(__dirname, 'dist'),
         libraryTarget: 'umd',
         umdNamedDefine: true
